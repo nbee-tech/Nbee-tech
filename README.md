@@ -3,9 +3,7 @@ Welcome to my Git
 </h1>
 <h3>
 <div align = left>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Graphics+Enthusiast;A+student+from+Russia" alt="Typing SVG" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&vCenter=true&width=300&height=20&lines=Software+Engineer;Graphics+Enthusiast;A+student+from+Russia" alt="Typing SVG" /></a>
   </div>
   &nbsp;&nbsp;
   <div align = right>
