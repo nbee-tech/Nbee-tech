@@ -1,7 +1,8 @@
 <h1>
 Welcome to my Git
 </h1>
-  <div align = left>
+<h3>
+<div align = left>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&size=32&duration=4000&pause=800&color=FFFFFF&vCenter=true&width=435&height=32&lines=Software+Engineer+...;Graphics+enthusiast+...;Self-taught+...;Father+of+two+cats+%F0%9F%98%B8" alt="Typing SVG" />
     </a>
@@ -15,6 +16,8 @@ Welcome to my Git
         height="28"
     />
   </div>
+</h3>
+  
 
 
 
