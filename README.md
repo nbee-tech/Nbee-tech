@@ -17,6 +17,6 @@
   />
 </h3>
 <p align="center">
-  Developer looking 
+  Constantly improving my development skills within the .NET ecosystem, currently focusing on ASP.NET Core, Entity Framework Core, application architecture, and code quality.
 </p>
 
