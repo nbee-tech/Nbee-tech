@@ -5,7 +5,7 @@
 
 <h3 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=FFFFFF&vCenter=true&width=435&height=32&lines=Software+Engineer;Graphics+Enthusiast;Self-taught"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=FFFFFF&vCenter=true&width=435&height=28&lines=Software+Engineer;Graphics+Enthusiast;Self-taught"
     alt="Typing SVG"
   />
   &nbsp;&nbsp;
