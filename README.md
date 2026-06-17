@@ -1,5 +1,5 @@
 <h1 align="center">
-Welcome to my <a href="https://github.com/NBee-tech">Git</a>
+Welcome to my <a href="https://github.com/NBee-tech">Git</a>!
 </h1>
 <div style="display: flex; align-items: center;">
     <h2>
