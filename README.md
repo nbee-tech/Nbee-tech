@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/NBee-tech" target="_blank">Nick</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <a href="https://git.io/typing-svg">
     <img 
@@ -14,3 +14,4 @@
     style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block;"
   />
 </div>
+</h1>
