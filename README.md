@@ -6,6 +6,7 @@ Welcome to my Git
       <img src="https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&size=32&duration=4000&pause=800&color=FFFFFF&vCenter=true&width=435&height=32&lines=Software+Engineer+...;Graphics+enthusiast+...;Self-taught+...;Father+of+two+cats+%F0%9F%98%B8" alt="Typing SVG" />
     </a>
   </div>
+  &nbsp;&nbsp;
   <div align = right>
     <img
         align="center"
