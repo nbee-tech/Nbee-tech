@@ -1,6 +1,7 @@
 <div>
   <h1 align="center">Hi there, I'm <a href="https://github.com/NBee-tech" target="_blank">Nick</a> 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  </h1>
   <div style="display: flex; align-items: center; justify-content: space-between;">
     <a href="https://git.io/typing-svg">
       <img 
@@ -15,4 +16,4 @@
     />
   </div>
 </div>
-</h1>
+
