@@ -5,7 +5,7 @@
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=FFFFFF&width=435&height=32&lines=Software+Engineer;Graphics+enthusiast;Self-taught+programmer" 
     alt="Typing SVG"
-    style="display: block;"
+    style="pointer-events: none;"
   />
   <img 
     src="https://komarev.com/ghpvc/?username=NBee-tech" 
