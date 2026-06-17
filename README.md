@@ -3,7 +3,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-<h3 align="center">
+<h3 align="left">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=FFFFFF&vCenter=true&width=435&height=20&lines=Software+Engineer;Graphics+Enthusiast;Self-taught"
     alt="Typing SVG"
