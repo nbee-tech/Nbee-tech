@@ -26,14 +26,14 @@ Welcome to my Git
 
 
 <div>
-  <img
-      align="right"
+   <img
+      align="left"
       src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS"
       alt="Profile views"
       height="28"
   />
   <img
-      align="center"
+      align="right"
       src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS"
       alt="Profile views"
       height="28"
