@@ -3,7 +3,7 @@
 </h1>
 <p>
   <img height="32" src="https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&duration=4000&pause=800&color=4599FF&vCenter=true&width=300&height=20&lines=Software+engineer+...;Graphics+enthusiast+...;Self-taught+...;Proud+cat+owner+%F0%9F%90%B1" alt="Typing SVG" />
-  <img height="32" src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS&color=4599FF&flat-square&label=profile+views" alt="Profile views" />
+  <img align="right" height="32" src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS&color=4599FF&flat-square&label=profile+views" alt="Profile views" />
 </p>
 
 <p align="center">
