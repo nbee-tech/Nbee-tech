@@ -2,7 +2,7 @@
 Welcome to my <a href="https://github.com/NBee-tech">Git</a> !
 </h1>
 <div>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&duration=4000&pause=800&color=4599FF&vCenter=true&width=300&height=20&lines=Software+engineer+...;Graphics+enthusiast+...;Self-taught+...;Proud+cat+owner+%F0%9F%90%B1" alt="Typing SVG" />
+        <img align="center" height="32" src="https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&duration=4000&pause=800&color=4599FF&vCenter=true&width=300&height=20&lines=Software+engineer+...;Graphics+enthusiast+...;Self-taught+...;Proud+cat+owner+%F0%9F%90%B1" alt="Typing SVG" />
         <img align="right" height="32" src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS" alt="Profile views" />
     
 </div>
