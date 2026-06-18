@@ -9,6 +9,9 @@
   Constantly improving within the .NET ecosystem => currently focusing on perfecting my ASP.NET Core && EF Core understanding. In my free time, I love to study graphics programming and modern approaches to creating photorealistic real-time graphics, especially real-time ocean rendering. In the future, I plan to expand my tech stack with C++
 </p>
 
-<img align="right" height="32" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img height="32" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 
