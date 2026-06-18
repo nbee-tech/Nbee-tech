@@ -3,13 +3,15 @@ Welcome to my <a href="https://github.com/NBee-tech">Git</a> !
 </h1>
 <div style="display: flex; align-items: center;">
     <h2>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&duration=4000&pause=800&color=4599FF&vCenter=true&width=300&height=20&lines=Software+engineer+...;Graphics+enthusiast+...;Self-taught+...;Proud+cat+owner+%F0%9F%90%B1" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg">
+            <img height="32" src="https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&duration=4000&pause=800&color=4599FF&vCenter=true&width=300&height=20&lines=Software+engineer+...;Graphics+enthusiast+...;Self-taught+...;Proud+cat+owner+%F0%9F%90%B1" alt="Typing SVG" />
+        </a>
         <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/2e5ebb2a-f665-4fdb-b1eb-812080173666" />
         <img
             align="right"
             src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS"
             alt="Profile views"
-            height="28"
+            height="32"
         />
     </h2>
 </div>
