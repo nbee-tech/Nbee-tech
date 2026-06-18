@@ -6,7 +6,10 @@ Welcome to my <a href="https://github.com/NBee-tech">Git</a> !
         <a href="https://git.io/typing-svg">
             <img align="left" height="32" src="https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&duration=4000&pause=800&color=4599FF&vCenter=true&width=300&height=20&lines=Software+engineer+...;Graphics+enthusiast+...;Self-taught+...;Proud+cat+owner+%F0%9F%90%B1" alt="Typing SVG" />
         </a>
-        <img align="center" width="64" height="64" src="https://github.com/user-attachments/assets/2e5ebb2a-f665-4fdb-b1eb-812080173666" alt="C# icon" />
+        <div align="center">
+            <img align="left" width="64" height="64" src="https://github.com/user-attachments/assets/2e5ebb2a-f665-4fdb-b1eb-812080173666" alt="C# icon" />
+            <img align="right" width="64" height="64" src="https://github.com/user-attachments/assets/2e5ebb2a-f665-4fdb-b1eb-812080173666" alt="C# icon" />
+        </div>
         <img align="right" height="32" src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS" alt="Profile views" />
     </h2>
 </div>
