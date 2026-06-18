@@ -8,6 +8,7 @@
 
 <p align="center">
   <img width="64" alt="The logo for the progamming language JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/250px-JavaScript-logo.png">
+  <img width="64" alt="The logo for the progamming language JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/250px-JavaScript-logo.png">
 </p>
 
 <p align="left">
