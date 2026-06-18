@@ -6,10 +6,10 @@
   <img align="right" height="32" src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS&color=4599FF&flat-square&label=profile+views" alt="Profile views" />
 </p>
 
-<table align="center">
+<p align="center">
   <img width="64" alt="The logo for the progamming language JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/250px-JavaScript-logo.png">
   <img width="64" alt="The logo for the progamming language JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/250px-JavaScript-logo.png">
-</table>
+</p>
 
 <p align="left">
   Constantly improving within the .NET ecosystem => currently focusing on perfecting my ASP.NET Core && EF Core understanding. In my free time, I love to study graphics programming and modern approaches to creating photorealistic real-time graphics, especially real-time ocean rendering. In the future, I plan to expand my tech stack with C++
