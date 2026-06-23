@@ -6,10 +6,17 @@
   <img align="right" height="32" src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS&color=4599FF&flat-square&label=profile+views" alt="Profile views" />
 </p>
 <p align="left">
-  I am a Software Engineer with one year of commercial experience developing WMS and Helpdesk systems on the .NET platform. My primary focus is backend development within the .NET ecosystem. Currently, I am deepening my expertise in ASP.NET Core, EF Core, and PostgreSQL to strengthen my ability to design and build reliable, high-quality backend systems.
+  Software Engineer with commercial experience developing WMS and Helpdesk systems on the .NET platform. My primary focus is backend development using ASP.NET Core, EF Core, and PostgreSQL, with a strong interest in software architecture and maintainable systems.
 </p>
 <p align="left">
-  In my free time, I enjoy studying graphics programming and modern real-time rendering techniques, with a particular interest in ocean simulation and photorealistic computer graphics. In the future, I plan to expand my technical skill set by learning C++ and exploring lower-level systems and graphics development.
+  Outside of work, I enjoy studying graphics programming and real-time rendering techniques, with a particular interest in ocean simulation and photorealistic computer graphics. My long-term goal is to expand into C++ and graphics engineering.
 </p>
+
+## Currently Working On
+
+- 📦 Warehouse Management System (ASP.NET Core + PostgreSQL + React)
+- 🌊 FFT Ocean Simulation in Unity
+- 📚 Deepening my understanding of ASP.NET Core & EF Core
+- 🎮 Studying graphics programming and real-time rendering
 
 
