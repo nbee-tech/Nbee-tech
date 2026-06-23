@@ -1,5 +1,5 @@
 <h1>
-  Welcome to my <a href="https://github.com/NBee-tech">Git</a> !
+  Hi, I'm <a href="https://github.com/NBee-tech">Nickolay Bozhovskiy</a> 👋
 </h1>
 <p>
   <img height="32" src="https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&duration=4000&pause=800&color=4599FF&vCenter=true&width=300&height=20&lines=Software+engineer+...;Graphics+enthusiast+...;Self-taught+...;Proud+cat+owner+%F0%9F%90%B1" alt="Typing SVG" />
