@@ -7,6 +7,7 @@
 </p>
 <p align="left">
   I am a Software Engineer with one year of commercial experience developing WMS and Helpdesk systems on the .NET platform. My primary focus is backend development within the .NET ecosystem. Currently, I am deepening my expertise in ASP.NET Core, EF Core, and PostgreSQL to strengthen my ability to design and build reliable, high-quality backend systems.
+  In my free time, I enjoy studying graphics programming and modern real-time rendering techniques, with a particular interest in ocean simulation and photorealistic computer graphics. In the future, I plan to expand my technical skill set by learning C++ and exploring lower-level systems and graphics development.
 </p>
 
 
