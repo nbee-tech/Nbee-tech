@@ -4,12 +4,11 @@
   <img align="right" height="32" src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS&color=4599FF&flat-square&label=profile+views" alt="Profile views" />
 </p>
 
-<p>
+### Work 
   Software Engineer with commercial experience developing WMS and Helpdesk systems on the .NET platform. My primary focus is backend development using ASP.NET Core, EF Core, and PostgreSQL, with a strong interest in software architecture and maintainable systems.
-</p>
-<p>
+
+### Personal
   Outside of work, I enjoy studying graphics programming and real-time rendering techniques, with a particular interest in ocean simulation and photorealistic computer graphics. My long-term goal is to expand into C++ and graphics engineering.
-</p>
 
 ## Currently Working On
  - 📦 Warehouse Management System (ASP.NET Core + PostgreSQL + React)
