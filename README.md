@@ -1,7 +1,5 @@
 # Hi, I'm <a href="https://github.com/NBee-tech">Nickolay Bozhovskiy</a> 👋
 
-Software Engineer with 1+ year of commercial experience:
-
 ### Professional
 Software Engineer with commercial experience developing WMS and Helpdesk systems on the .NET platform. My primary focus is backend development using ASP.NET Core, EF Core, and PostgreSQL, with a strong interest in software architecture and maintainable systems.
 
