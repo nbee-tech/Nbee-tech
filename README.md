@@ -1,9 +1,9 @@
 # Hi, I'm <a href="https://github.com/NBee-tech">Nickolay Bozhovskiy</a> 👋
 
-## Professional
+### Professional
 Software Engineer with commercial experience developing WMS and Helpdesk systems on the .NET platform. My primary focus is backend development using ASP.NET Core, EF Core, and PostgreSQL, with a strong interest in software architecture and maintainable systems.
 
-## Interests
+### Interests
 Outside of work, I enjoy studying graphics programming and real-time rendering techniques, with a particular interest in ocean simulation and photorealistic computer graphics. My long-term goal is to expand into C++ and graphics engineering.
 
 ## Currently Working On
