@@ -20,4 +20,4 @@ Outside of work, I enjoy studying graphics programming and real-time rendering t
 <code><img height="35" alt="Git" title="Git" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/git_logo.svg"></code>
 <code><img height="35" alt="Unity" title="Unity" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/unity_logo.png"></code>
 <code><img height="35" alt="Insomnia" title="Insomnia" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/insomnia_logo.svg"></code>
-<code><img height="35" alt="VSCode" title="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/vscode_logo.svg" src="https://github.com/M4nver/M4nver/blob/main/assets/vscode_logo.png"></code>
+<code><img height="35" alt="VSCode" title="VSCode" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/vscode_logo.svg"></code>
